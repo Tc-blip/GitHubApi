@@ -20,6 +20,6 @@ if __name__=="__main__":
     UserID = input("User ID : ")
     res = getRepositories(UserID)
     for i in res:
-        print(f"Repo: {i[0]} Number of commits: {i[1]}" )
+        print("Repo: {} Number of commits: {}".format(i[0],i[1]))
 
     print(res)
