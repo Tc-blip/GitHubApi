@@ -21,5 +21,3 @@ if __name__=="__main__":
     res = getRepositories(UserID)
     for i in res:
         print("Repo: {} Number of commits: {}".format(i[0],i[1]))
-
-    print(res)
