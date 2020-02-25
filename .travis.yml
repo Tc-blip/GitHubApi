@@ -7,4 +7,4 @@ install:
 
 # command to run tests
 script:
- - python -m unittest Testgihubapi
+ - python -m unittest test_githubapi

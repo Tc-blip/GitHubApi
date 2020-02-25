@@ -1,4 +1,0 @@
-I think to develop a code that can be easily tested, the most important thing is to write a clear structured code and write as many functions as possible, so that it can be easier to test each function separately.
-
-
-When testing this code, the biggest difficulty is how do I ensure that my expect output is correct. I need to manually find the expected result by myself. It is difficult and cannot be guaranteed to be correct.
